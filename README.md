@@ -12,3 +12,6 @@ To remember git commands
 
 #### Delete repo
 - https://help.github.com/articles/deleting-a-repository/
+
+#### Uploading files to Github
+- open Github tab to Upload Files option.  Use Windows Explorer tab to drag files then at bottom do Commit
