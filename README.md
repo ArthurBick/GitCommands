@@ -1,6 +1,10 @@
 # GitCommands
 To remember git commands
 
+#### Turn a local directory into a git repo
+- cd to the folder
+- git init
+
 #### Set a local repo to a Github remote repo:
 - git remote set-url origin https://github.com/ArthurBick/Angular2Fundamentals.git
 
