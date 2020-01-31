@@ -21,3 +21,6 @@ OR
 
 #### Uploading files to Github
 - open Github tab to Upload Files option.  Use Windows Explorer tab to drag files then at bottom do Commit
+
+#### Github tutorial
+- https://guides.github.com/activities/hello-world/
